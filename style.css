@@ -1,0 +1,12 @@
+h {
+    font: 1em sans-serif;
+    color: blue;
+    padding: 0 150px 150px 150px;
+    font-size: large;
+    font-weight: bolder;
+}
+
+p1 {
+    padding-left: 100px;
+    padding-bottom: 150px;
+}
